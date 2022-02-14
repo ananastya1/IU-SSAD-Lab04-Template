@@ -5,6 +5,7 @@
 #include <sstream>
 using namespace std;
 
+
 std::ostringstream out1; 
 static class Flower {
     public String bloomtime = "NA";
